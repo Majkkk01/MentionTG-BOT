@@ -1,0 +1,17 @@
+{
+    "name": "Majk",
+    "description": "Bot what mention everyone",
+    "logo": "",
+    "env": {
+        "TOKEN": {
+            "description": "YOUR_BOT_TOKEN"
+        },
+        "APP_ID": {
+            "description": "YOUR_API_ID"
+        },
+        "API_HASH": {
+            "description": "YOUR_API_HASH"
+        }
+    },
+    "buildpacks": [{"url": "heroku/python"}]
+}
